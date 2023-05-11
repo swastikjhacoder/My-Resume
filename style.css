@@ -507,7 +507,7 @@ button:focus {
 }
 
 .mb-yellow {
-    background-color: yellow;
+    background-color: rgb(85, 172, 5);
 }
 
 .mb-orange {
@@ -523,7 +523,7 @@ button:focus {
 }
 
 .mb-light-purple {
-    background-color: purple;
+    background-color: #93738c;
 }
 
 
